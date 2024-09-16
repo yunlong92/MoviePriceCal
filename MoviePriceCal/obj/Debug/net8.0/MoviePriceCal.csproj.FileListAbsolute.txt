@@ -1,0 +1,14 @@
+/Users/yun/C/MoviePriceCal/MoviePriceCal/bin/Debug/net8.0/MoviePriceCal
+/Users/yun/C/MoviePriceCal/MoviePriceCal/bin/Debug/net8.0/MoviePriceCal.deps.json
+/Users/yun/C/MoviePriceCal/MoviePriceCal/bin/Debug/net8.0/MoviePriceCal.runtimeconfig.json
+/Users/yun/C/MoviePriceCal/MoviePriceCal/bin/Debug/net8.0/MoviePriceCal.dll
+/Users/yun/C/MoviePriceCal/MoviePriceCal/bin/Debug/net8.0/MoviePriceCal.pdb
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/MoviePriceCal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/MoviePriceCal.AssemblyInfoInputs.cache
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/MoviePriceCal.AssemblyInfo.cs
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/MoviePriceCal.csproj.CoreCompileInputs.cache
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/MoviePriceCal.dll
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/refint/MoviePriceCal.dll
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/MoviePriceCal.pdb
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/MoviePriceCal.genruntimeconfig.cache
+/Users/yun/C/MoviePriceCal/MoviePriceCal/obj/Debug/net8.0/ref/MoviePriceCal.dll
